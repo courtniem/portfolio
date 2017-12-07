@@ -13,22 +13,26 @@
 
 </head>
 <body>
-
-  <div id="videoModal" class="reveal-modal large" data-reveal aria-labelledby="videoModalTitle" aria-hidden="true" role="dialog">
-    <h2 id="videoModalTitle">This modal has video</h2>
-    <div class="flex-video widescreen vimeo">
-      <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/wnXCopXXblE?rel=0" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
-  </div>
+<!-- USE THIS CODE BASE https://foundation.zurb.com/sites/docs/reveal.html -->
 
 
+<div class="reveal large" id="exampleModal1" data-reveal>
+  <h1>Awesome. I Have It.</h1>
+  <p class="lead">Your couch. It is mine.</p>
+  <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
 
+  <!-- FOR VIDEO USE THIS https://foundation.zurb.com/sites/docs/responsive-embed.html-->
+  <div class="responsive-embed">
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/mM5_T-F1Yn4" frameborder="0" allowfullscreen></iframe>
+</div>
+ <!-- for sizing use these classes from foundation modal page .tiny: 30% wide .small: 50% wide .large: 90% wide-->
 
-  <a href="#" data-reveal-id="videoModal" class="radius button">Example Modal with Video&hellip;</a>
+  <button class="close-button" data-close aria-label="Close modal" type="button">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
 
-
+<p><button class="button" data-open="exampleModal1">Click me for a modal</button></p>
 
 <script src="scripts/jquery.js"></script>
 <script src="scripts/what-input.js"></script>
