@@ -1,0 +1,1108 @@
+
+@media screen and (min-width:0px) and (max-width:640px) {
+  /* CSS code for small screens */
+
+  h1 {
+    }
+
+  h2 {
+    }
+
+
+    .parallax {
+        /* The image used */
+        background-image: url("../images/current.jpg");
+
+
+        /* Set a specific height */
+        min-height: 500px;
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+
+
+}
+@media screen and (min-width:641px) {
+  /* CSS code for larger screens */
+  #myModal{
+    background-image: url("../images/displacement.png");
+  }
+  .parallax {
+      /* The image used */
+      background-image: url("../images/displacement.png");
+    image-orientation: centered;
+
+      /* Set a specific height */
+      min-height: 880px;
+
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+
+.parallaxmotion {
+    /* The image used */
+    background-image: url("../images/displacement.png");
+    image-orientation: centered;
+
+    /* Set a specific height */
+    min-height: 400px;
+
+
+
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+
+.parallaxmulti {
+    /* The image used */
+    background-image: url("../images/project6.jpg");
+    image-orientation: centered;
+
+    /* Set a specific height */
+    min-height: 400px;
+    min-width: 600px;
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*.bigbox{
+height:1950px;
+background-color: transparent;
+
+} */
+
+
+.parallaxdesign {
+    /* The image used */
+    background-image: url("../images/logoshadows1920x1080.png");
+    image-orientation: centered;
+
+    /* Set a specific height */
+    min-height: 400px;
+    min-width: 600px;
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.bg1{
+
+  height: 10px;
+  width:1500px;
+
+ /*background-image: url("../images/unsure.png");
+  opacity: 1;
+
+
+  /* Set a specific height */
+
+  background-color: black;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bg2{
+
+  height: 10px;
+  background-color: black;
+  width:1500px;
+  /*background-image: url("../images/unsure.png");/*
+  opacity: .5;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg3{
+
+  height: 10px;
+  background-color: black;
+  width:1500px;
+  /*background-image: url("../images/unsure.png");*/
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bg4{
+
+  height: 400px;
+  background-color: black;
+  /*background-image: url("../images/unsure.png");*/
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bg1motion{
+
+  height: 400px;
+ background-image: url("../images/meta3.png");
+  opacity: 1;
+
+
+  /* Set a specific height */
+
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bg2motion{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/unsure.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg3motion{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/softblue.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg4motion{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/rock.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bg5motion{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+.bg1multi{
+
+  height: 400px;
+  background-image: url("../images/kinect.png");*/
+  opacity: 1;
+
+
+  /* Set a specific height */
+
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bg2multi{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/walkk.jpg");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg3multi{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/mercer.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg4multi{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/me.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bg5multi{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/makey.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg6multi{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bg1design{
+
+  height: 400px;
+  background-image: url("../images/logoshadows1920x1080.png");
+  opacity: 1;
+
+
+  /* Set a specific height */
+
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bg2design{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/many.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg3design{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg4design{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.bg5design{
+
+  height: 400px;
+  background-color: white;
+ background-image: url("../images/.png");
+  opacity: 1;
+
+  /* Set a specific height */
+
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+.logo{
+
+
+}
+
+
+
+
+  .motiongraphics {
+  /*margin-top: 150px;*/
+  height:700px;
+  background-color:white;
+  font-size:56px;
+  text-align: center;
+  background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  #design {
+    /*margin-top: 150px;*/
+    height:700px;
+
+    font-size:56px;
+    text-align: center;
+
+  }
+
+
+
+  .bottom {
+    /* The image used */
+    background-image: url("../images/displacement.png");
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.bg4{
+  color: white;
+  text-align: center;
+}
+
+.email{
+  bottom: 500px;
+}
+/*#imagewrapper{
+
+  width: 550px;
+  margin: 200px 200px 200px 900px;
+}
+
+
+
+.imgw
+{
+  margin: 800px 800px 800px 800px;
+}
+
+
+.floating-boxes {
+    position: relative;
+    right: 175px;
+    opacity:50%;
+    border: 3px solid red;
+
+    display: inline-block;
+    width:700px;
+    height:450px;
+    margin: 10px;
+    padding: 10px 13px ;
+
+}
+
+
+
+
+.third-box{
+
+
+  padding: 20px 60px 20px 80px;
+  margin: 40px 40px 60px 300px;
+  margin-right: 50px;
+  border: 3px solid #9999FF;
+  -moz-box-shadow: 5px 5px 5px 5px #9999FF;
+  -webkit-boxshadow-: 5px 5px 5px 5px #9999FF;
+  box-shadow: -20px -20px #9999FF;
+  width: 1325px;
+
+}
+
+
+.fourth-box{
+
+
+  padding: 20px 60px 20px 80px;
+  margin: 40px 40px 60px 40px;
+  margin-right: 50px;
+  border: 3px solid red;
+  -moz-box-shadow: 5px 5px 5px 5px #66CCFF;
+  -webkit-boxshadow-: 5px 5px 5px 5px #66CCFF;
+  box-shadow: -20px -20px #99FFFF;
+
+}
+
+.fifth-box{
+
+
+  padding: 20px 60px 20px 80px;
+  margin: 40px 40px 60px 600px;
+  margin-right: 50px;
+  border: 3px solid #CC0000;
+  -moz-box-shadow: 5px 5px 5px 5px black;
+  -webkit-boxshadow-: 5px 5px 5px 5px black;
+  box-shadow: -20px -20px black;
+  width: 600px;
+  height: 975px;
+
+}
+
+
+.sixth-box{
+
+
+  padding: 20px 60px 20px 80px;
+  margin: 40px 40px 60px 600px;
+  margin-right: 50px;
+  border: 3px solid black;
+  -moz-box-shadow: 5px 5px 5px 5px #99FF99;
+  -webkit-boxshadow-: 5px 5px 5px 5px #99FF99;
+  box-shadow: -20px -20px #99FF99;
+  width: 600px;
+  height: 975px;
+
+}
+
+.seventh-box{
+
+
+  padding: 20px 60px 20px 80px;
+  margin: 40px 40px 60px 450px;
+  margin-right: 50px;
+  border: 3px solid black;
+  -moz-box-shadow: 5px 5px 5px 5px 	#C8C8C8 ;
+  -webkit-boxshadow-: 5px 5px 5px 5px 	#C8C8C8 ;
+  box-shadow: -20px -20px 	#C8C8C8 ;
+  width: 800px;
+  height: 525px;
+
+}
+
+.eighth-box{
+
+
+  padding: 20px 60px 20px 80px;
+  margin: 40px 40px 60px 450px;
+  margin-right: 50px;
+  border: 3px solid black;
+  -moz-box-shadow: 5px 5px 5px 5px #330099;
+  -webkit-boxshadow-: 5px 5px 5px 5px #330099;
+  box-shadow: -20px -20px #330099;
+  width: 1000px;
+  height: 700px;;
+
+}
+.ninth-box{
+
+  background-image: url("../images/rakrak22blk.png");
+  padding: 20px 60px 20px 80px;
+
+  margin-right: -200px;
+  border: 3px solid black;
+  -moz-box-shadow: 5px 5px 5px 5px 	#505050;
+  -webkit-box-shadow-: 5px 5px 5px 5px 	#505050;
+  box-shadow: 5px 5px #505050 ;
+
+  margin:400px 200px 100px 150px;
+  width: 1700px;
+  height: 190px;
+
+
+}
+
+.tenth-box{
+
+
+  padding: 20px 60px 20px 80px;
+
+
+  border: 3px solid black;
+  -moz-box-shadow: 5px 5px 5px 5px 	#505050;
+  -webkit-box-shadow-: 5px 5px 5px 5px 	#505050;
+  box-shadow: 5px 5px #505050 ;
+
+  margin:-700px 200px 100px 200px;
+  width: 1500px;
+  height: 400px;
+
+
+
+}*/
+
+
+
+
+  h1 {
+    font-family: "henderson-sans-basic";
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+
+
+
+  h2 {font-family: "henderson-sans-basic";
+    font-size: 70px;
+
+
+  }
+
+
+  h3{
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 30px;
+    text-align: center;
+  }
+
+.head{
+  height: 300px;
+  position: relative;
+  top:50px;
+}
+
+ .head h3{
+   position: relative;
+   top: -20px;
+   text-align: center;
+
+ }
+
+
+.parallaxmotion:hover{
+  opacity: .5;
+}
+
+
+.bg1motion:hover{
+  opacity: .5;
+
+
+}
+
+
+
+}
+ .motionhead h3{
+   text-align: center;
+   font-size: 70px;
+
+ }
+
+ .motionheadtwo h3{
+   font-size: 70px;
+   -webkit-transform: scaleY(-1);
+   transform: scaleY(-1);
+   position: relative;
+   bottom: 50px;
+   opacity: .2;
+
+
+}
+
+.multinav h5{
+  color:black;
+
+  margin-left: 1900px;
+  font-family: "henderson-sans-basic";
+}
+
+
+.designnav h5{
+  color:black;
+    margin-left: 1900px;
+    top:  150px;
+
+    font-family: "henderson-sans-basic";
+}
+
+
+.motionnav h5{
+  color:black;
+  left:800px;
+  font-family: "henderson-sans-basic";
+}
+
+
+
+.motionnavmulti h5{
+
+  color:black;
+  margin-left: 1900px;
+  font-family: "henderson-sans-basic";
+}
+
+.designnavmulti h5{
+  color:black;
+  margin-left: 1900px;
+  font-family: "henderson-sans-basic";
+}
+
+
+
+
+
+.multihead h3 {
+  height: 20px;
+  text-align: center;
+  font-size: 70px;
+  margin-bottom: 100px;
+
+
+}
+
+.multiheadtwo h3 {
+    height: 20px;
+  top:13px;
+  margin-bottom: 70px;
+  font-size: 70px;
+  -webkit-transform: scaleY(-1);
+  transform: scaleY(-1);
+  position: relative;
+
+  opacity: .2
+
+
+}
+.designhead h3{
+  text-align: center;
+  font-size: 70px;
+
+}
+
+.designheadtwo h3{
+  font-size: 70px;
+  -webkit-transform: scaleY(-1);
+  transform: scaleY(-1);
+  position: relative;
+  bottom: 40px;
+  opacity: .2
+
+
+}
+
+
+
+   img:hover {
+    opacity: .5;
+}
+
+
+
+  #motiongraphics { text-align: center;
+    height: 700px;
+}
+
+
+
+#motiongraphics p:hover{
+  font-weight: 400;
+  position: relative;
+  font-weight: bold;
+  color: #808080;
+
+
+  text-decoration: underline;
+  opacity:1;
+}
+#motiongraphics img{
+            height: 470px;
+            position: relative;
+            bottom: 80px;
+}
+
+#motiongraphics h2{
+            position: relative;
+            bottom: 90px;
+            font-weight: bold;
+}
+
+  #motiongraphics p {font-size: 90px;
+              font-weight: bold;
+              color: black;
+              position: relative;
+              bottom: 50px;
+              opacity: 0;
+              font-family: "henderson-sans-basic";}
+
+
+    #motiongraphics {transform:translateY(120px);}
+    #motiongraphics p {transform:translateY(120px);}
+    #motiongraphics p {transform:translateX(220px);}
+    #motiongraphics p{transform:translate(-15px, 10px);}
+
+
+
+    #motiongraphics {transition:all 2s;}
+    #motiongraphics p {transition:all 2s;}
+    #motiongraphics p{transition:transform 2s;}
+    #motiongraphics p{transition:all 2s;}
+
+  /* on hover do stuff*/
+  #motiongraphics{transition:all 2s;}
+  #motiongraphics p {transform:translate(0,0);}
+  #motiongraphics p{width:100%;
+                 transform:translate(300px,305px);
+                 height:400px;}
+  #motiongraphics p{opacity:0; transform:translate(0,-315px); color:white;}
+
+
+
+  #video { text-align: center;
+    height: 700px;
+}
+
+
+.displacereveal p:hover{
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+  font-weight: bold;
+  opacity:0;
+  font-family: "henderson-sans-basic";
+
+}
+
+.displacereveal p{
+  opacity:0;
+  font-size: 50px;
+  font-weight: 400;
+  font-weight: bold;
+  margin-top: 100px;
+  bottom: 500px;
+  text-align: center;
+  font-family: "henderson-sans-basic"
+
+}
+
+
+.metareveal p:hover{
+
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+  font-weight: bold;
+  opacity:1;
+  font-family: "henderson-sans-basic";
+
+}
+
+.metareveal p{
+
+  opacity:0;
+  font-size: 50px;
+  font-weight: 400;
+  font-weight: bold;
+  margin-top: 100px;
+  bottom: 500px;
+  text-align: center;
+  font-family: "henderson-sans-basic"
+
+}
+
+
+
+#video p:hover{
+  font-weight: 400;
+  font-weight: bold;
+  text-decoration: underline;
+  opacity:1;
+  color:#808080;
+}
+#video img{
+  height: 485px;
+  position: relative;
+  bottom: 80px;
+}
+
+#video h2{
+  position: relative;
+  bottom: 90px;
+  font-weight: bold;
+}
+
+  #video p {  font-size: 70px;
+          font-weight: bold;
+              color: black;
+              position: relative;
+              bottom: 50px;
+              opacity: 0;
+              font-family: "henderson-sans-basic";}
+
+    #video {transform:translateY(120px);}
+    #video p {transform:translateY(120px);}
+    #video p {transform:translateX(220px);}
+    #video p{transform:translate(-15px, 10px);}
+
+
+
+    #video {transition:all 2s;}
+    #video p {transition:all 2s;}
+    #video p{transition:transform 2s;}
+    #video p{transition:all 2s;}
+
+  /* on hover do stuff*/
+  #video{transition:all 2s;}
+  #video p {transform:translate(0,0);}
+  #video p{width:100%;
+                 transform:translate(300px,305px);
+                 height:400px;}
+  #video p{opacity:0; transform:translate(0,-315px); color:white;}
+
+
+
+  #design { text-align: center;
+    height: 700px;
+  }
+
+
+
+  #design p:hover{
+  font-weight: 400;
+  font-weight: bold;
+  font-family: "henderson-sans-basic";
+  text-decoration: underline;
+  opacity:1;
+  color:#808080;
+  }
+  #design img{
+    height: 510px;
+    position: relative;
+    bottom: 80px;
+  }
+
+  #design h2{
+    position: relative;
+    bottom: 90px;
+    font-weight: bold;
+
+  }
+
+  #design p {font-size: 70px;
+            font-weight: bold;
+              color: white;
+              position: relative;
+              bottom: 50px;
+              opacity: 0;
+              font-family: "henderson-sans-basic";}
+
+    #design {transform:translateY(120px);}
+    #design p {transform:translateY(120px);}
+    #design p {transform:translateX(220px);}
+    #design p{transform:translate(-15px, 10px);}
+
+
+
+    #design {transition:all 2s;}
+    #design p {transition:all 2s;}
+    #design p{transition:transform 2s;}
+    #design p{transition:all 2s;}
+
+  /* on hover do stuff*/
+  #design{transition:all 2s;}
+  #design p {transform:translate(0,0);}
+  #design p{width:100%;
+                 transform:translate(300px,305px);
+                 height:400px;}
+  #design p{opacity:0; transform:translate(0,-315px); color:white;}
+.bg4{
+  top:500px;
+  width: 700px;
+}
+
+#contact{
+font-size: 25px;
+  font-weight: bold;
+  font-family: "henderson-sans-basic";
+  height: 300px;
+  background-color: black;
+  color: white;
+  text-align: center;
+
+
+
+
+}
+
+#contact  p{
+margin-bottom:70px;
+
+}
+
+.t{
+}
+
+
+
+
+}
