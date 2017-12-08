@@ -30,8 +30,79 @@
 }
 @media screen and (min-width:641px) {
   /* CSS code for larger screens */
-  #myModal{
-    background-image: url("../images/displacement.png");
+
+.mainnav a{
+    font-size: 17px;
+    display: inline-block;
+    line-height: 30px;
+    margin-left: 1600px;
+    font-family: "henderson-sans-basic";
+    color: black;
+
+}
+ul{
+  list-style: none;
+
+}
+
+.mainnav {
+    line-height: 30px;
+    font-family: "henderson-sans-basic";
+    color: black;
+
+}
+
+.linkedin{
+
+  font-size: 30px;
+  font-weight: 550;
+  font-family: "henderson-sans-basic";
+
+  height: 75px;
+  color: white;
+}
+
+.insta p{
+  right:60px;
+  text-align: center;
+
+  font-size: 30px;
+  font-weight: 550;
+  font-family: "henderson-sans-basic";
+  background-color: black;
+
+  color: white;
+}
+
+.email{
+  text-align: center;
+
+  font-size: 30px;
+  font-weight: 550;
+  font-family: "henderson-sans-basic";
+  background-color: black;
+
+  color: white;
+}
+
+.bottomnav{
+  height: 270px;
+  background-color: black;
+
+}
+
+  .button{
+    font-family: "henderson-sans-basic";
+    background-color: white;
+    color: black;
+
+  }
+
+  .button:hover{
+    font-family: "henderson-sans-basic";
+    background-color: black;
+    color: white;
+
   }
   .parallax {
       /* The image used */
@@ -75,7 +146,7 @@
 
 .parallaxmulti {
     /* The image used */
-    background-image: url("../images/project6.jpg");
+    background-image: url("../images/me.png");
     image-orientation: centered;
 
     /* Set a specific height */
@@ -116,7 +187,7 @@ background-color: transparent;
 
 .bg1{
 
-  height: 10px;
+  height: 8px;
   width:1500px;
 
  /*background-image: url("../images/unsure.png");
@@ -137,7 +208,7 @@ background-color: transparent;
 
 .bg2{
 
-  height: 10px;
+  height: 8px;
   background-color: black;
   width:1500px;
   /*background-image: url("../images/unsure.png");/*
@@ -155,7 +226,7 @@ background-color: transparent;
 
 .bg3{
 
-  height: 10px;
+  height: 8px;
   background-color: black;
   width:1500px;
   /*background-image: url("../images/unsure.png");*/
@@ -284,7 +355,7 @@ background-color: transparent;
 .bg1multi{
 
   height: 400px;
-  background-image: url("../images/kinect.png");*/
+  background-image: url("../images/makey.png");*/
   opacity: 1;
 
 
@@ -304,7 +375,7 @@ background-color: transparent;
 
   height: 400px;
   background-color: white;
- background-image: url("../images/walkk.jpg");
+ background-image: url("../images/kinect.png");
   opacity: 1;
 
   /* Set a specific height */
@@ -739,16 +810,7 @@ background-color: transparent;
  }
 
 
-.parallaxmotion:hover{
-  opacity: .5;
-}
 
-
-.bg1motion:hover{
-  opacity: .5;
-
-
-}
 
 
 
@@ -769,45 +831,6 @@ background-color: transparent;
 
 
 }
-
-.multinav h5{
-  color:black;
-
-  margin-left: 1900px;
-  font-family: "henderson-sans-basic";
-}
-
-
-.designnav h5{
-  color:black;
-    margin-left: 1900px;
-    top:  150px;
-
-    font-family: "henderson-sans-basic";
-}
-
-
-.motionnav h5{
-  color:black;
-  left:800px;
-  font-family: "henderson-sans-basic";
-}
-
-
-
-.motionnavmulti h5{
-
-  color:black;
-  margin-left: 1900px;
-  font-family: "henderson-sans-basic";
-}
-
-.designnavmulti h5{
-  color:black;
-  margin-left: 1900px;
-  font-family: "henderson-sans-basic";
-}
-
 
 
 
@@ -853,9 +876,6 @@ background-color: transparent;
 
 
 
-   img:hover {
-    opacity: .5;
-}
 
 
 
@@ -869,10 +889,7 @@ background-color: transparent;
   font-weight: 400;
   position: relative;
   font-weight: bold;
-  color: #808080;
-
-
-  text-decoration: underline;
+  color: white;
   opacity:1;
 }
 #motiongraphics img{
@@ -975,9 +992,8 @@ background-color: transparent;
 #video p:hover{
   font-weight: 400;
   font-weight: bold;
-  text-decoration: underline;
   opacity:1;
-  color:#808080;
+  color:white;
 }
 #video img{
   height: 485px;
@@ -1031,7 +1047,6 @@ background-color: transparent;
   font-weight: 400;
   font-weight: bold;
   font-family: "henderson-sans-basic";
-  text-decoration: underline;
   opacity:1;
   color:#808080;
   }
@@ -1085,7 +1100,8 @@ font-size: 25px;
   font-weight: bold;
   font-family: "henderson-sans-basic";
   height: 300px;
-  background-color: black;
+  background-color:
+  ;
   color: white;
   text-align: center;
 
@@ -1099,8 +1115,9 @@ margin-bottom:70px;
 
 }
 
-.t{
-}
+
+
+
 
 
 
