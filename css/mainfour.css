@@ -1,0 +1,2716 @@
+
+
+@media screen and (min-width:641px) {
+    /* CSS code for larger screens 641 */
+
+    .headermotion h3{
+      position: relative;
+
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+      top:140px;
+    }
+
+    .headermotiontwo h3{
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+
+      top:120px;
+
+      -webkit-transform: scaleY(-1);
+      transform: scaleY(-1);
+      position: relative;
+      opacity: .2
+    }
+
+    .headerabout h3{
+      position: relative;
+
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+    }
+
+    .headerabouttwo h3{
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+
+      top:-20px;
+
+      -webkit-transform: scaleY(-1);
+      transform: scaleY(-1);
+      position: relative;
+      opacity: .2
+    }
+
+
+    .stillprint h3{
+      position: relative;
+
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+    }
+
+    .stillprinttwo h3{
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+
+      top:-20px;
+
+      -webkit-transform: scaleY(-1);
+      transform: scaleY(-1);
+      position: relative;
+      opacity: .2
+    }
+    .headerreel h3{
+      position: relative;
+
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+      top:290px;
+    }
+
+    .headerreeltwo h3{
+      font-family: "filson-soft";
+      font-weight: 200;
+      font-size: 40px;
+      text-align: center;
+
+      top:270px;
+
+      -webkit-transform: scaleY(-1);
+      transform: scaleY(-1);
+      position: relative;
+      opacity: .2
+    }
+
+    .reel{
+      top:130px;
+      height: 150px;
+      position: relative;
+
+    }
+
+    #reel{
+      top:130px;
+      height: 300px;
+      position: relative;
+      background-image: url("../images/realreel.png");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+    }
+
+
+    .reel{
+      z-index: 1;
+      top:280px;
+      height: 450px;
+      position: relative;
+      background-image: url("../images/realreel.png");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+
+    }
+
+
+    .reel img{
+      max-width: 100%;
+      z-index: 1;
+      top:280px;
+
+      position: relative;
+      background-image: url("../images/realreel.png");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+
+    }
+    #contact h4{
+      color: black;
+      top:-5px;
+      position: relative;
+      font-size: 30px;
+      font-weight: bold;
+      text-align: center;
+      font-family: "henderson-sans-basic";
+    }
+
+    #contact p{
+      font-size: 18px;
+      text-align: center;
+
+    }
+
+    #contact {
+      position: relative;
+
+      background-image: url("../images/.png");
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      top:400px;
+      height: 200px;
+
+    }
+
+    #contact a{
+      color: black;
+      text-align: center;
+      height: 400px;
+
+    }
+    a:visited{
+      color:black;
+
+    }
+    a:hover{
+      color: black;
+
+      opacity:.5;
+    }
+
+    .button{
+      position: relative;
+      top:-55px;
+        font-weight: bold;
+        font-family: "henderson-sans-basic";
+        background-color: transparent;
+        color: black;
+      }
+
+      .button:hover{
+        font-weight: bold;
+        font-family: "henderson-sans-basic";
+        background-color: white;
+        opacity: .5;
+        color: grey;
+
+      }
+
+
+    .button a:visited{
+      background-color: transparent;
+
+    }
+.about1 h3{
+  font-family: "henderson-sans-basic";
+  top:-20px;
+  font-size: 20px;
+  -webkit-transform: scaleY(-1);
+  transform: scaleY(-1);
+  position: relative;
+  opacity: .2
+}
+
+    .bg1motion{
+
+      z-index: -1;
+      opacity: .6;
+      image-orientation: centered;
+      text-align: center;
+      font-size: px;
+      position: relative;
+      top:600px;
+      height: 600px;
+      max-width: 100%;
+      font-style: bold;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+    }
+
+    .bg1motion h4{
+
+      font-weight: bold;
+      text-align: center;
+      font-size: 35px;
+      position: relative;
+      font-family: "henderson-sans-basic";
+
+    }
+
+    .bg1motion p{
+      font-weight: bold;
+      text-align: center;
+      font-size: 20px;
+      position: relative;
+      font-family: "henderson-sans-basic";
+
+    }
+
+    .grid-container {
+
+      top:200px;
+      display: grid;
+      grid-gap: 45px 75px;
+
+      grid-template-columns: auto auto auto;
+
+      padding: 10px;
+      position: relative;
+
+      opacity: 1;
+
+
+      max-width: 1
+      /* Set a specific height */
+
+    border-radius: 15px;
+
+      /* Create the parallax scrolling effect */
+
+}
+
+.grid-item1 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/box1920.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item2 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/meta3.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item3 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/idk.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item4 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/orbit.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item5 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/cloth.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item6 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/soft.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item7 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/fall.jpg");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item8 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/displacement.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item9 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/foldrightt.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item11 {
+  right:-250px;
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/design2.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item12 {
+  right:-250px;
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/kut2.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item13 {
+  top:340px;
+  left:-180px;
+
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/box4.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item14 {
+  left:250px;
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/nala2.png");
+opacity: 1;
+
+height: 300px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+
+    .top{
+      position: relative;
+      top:360px;
+
+      font-size: 18px;
+      color: black;
+    font-weight: 600;
+    height: 10px;
+    width: 100%;
+    text-align: center;
+
+
+    font-family: "henderson-sans-basic";
+
+    }
+    /*.vl {
+        border-left: 6px solid green;
+        height: 500px;
+        position: absolute;
+        left: 50%;
+        margin-left: -3px;
+        top: 1900px;
+    }
+*/
+  .headerhome h3{
+    font-family: "filson-soft";
+
+    font-size: 30px;
+    text-align: center;
+
+  }
+
+
+.mainnav a{
+    position:relative;
+    font-size: 3vh;
+    display: inline-block;
+    line-height: 35px;
+    font-family: "henderson-sans-basic";
+    color: black;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.gridtwo{
+  position: relative;
+  top:300px;
+}
+  .parallaxhome {
+      /* The image used */
+      background-image: url("../images/displacement.png");
+      image-orientation: centered;
+      max-width: 100%;
+
+      /* Set a specific height */
+      height: 400px;
+      max-width: 100%;
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+
+
+.parallaxmotion {
+    /* The image used */
+    background-image: url("../images/displacement.png");
+    image-orientation: centered;
+
+    /* Set a specific height */
+
+  max-width: 100%;
+  min-height: 400px;
+
+    /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallaxmulti {
+    /* The image used */
+    background-image: url("../images/me.png");
+
+
+    /* Set a specific height */
+    min-height: 400px;
+
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+/*.bigbox{
+height:1950px;
+background-color: transparent;
+
+} */
+
+
+.parallaxdesign {
+    /* The image used */
+    background-image: url("../images/logoshadows1920x1080.png");
+    image-orientation: centered;
+
+    /* Set a specific height */
+
+    max-width: 100%;
+
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.buttonreel{
+  text-align: center;
+
+    height: 15px;
+    position: relative;
+
+    top:300px;
+    font-weight: bold;
+    font-family: "henderson-sans-basic";
+    background-color: transparent;
+    color: black;
+    font-size: 20px;
+  }
+
+
+
+  .buttonreel:hover{
+    font-weight: bold;
+    font-family: "henderson-sans-basic";
+    background-color: white;
+    opacity: .5;
+    color: grey;
+
+
+  }
+
+
+.buttonreel a:visited{
+  background-color: transparent;
+
+}
+
+
+
+
+.logo img{
+
+    max-width: 100%;
+      height: auto;
+}
+
+  #design {
+    /*margin-top: 150px;*/
+    height:200px;
+
+    font-size:56px;
+    text-align: center;
+
+  }
+
+
+
+  .bottom {
+    /* The image used */
+    background-image: url("../images/displacement.png");
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.bg4{
+  color: white;
+  text-align: center;
+}
+
+  h1 {
+    font-family: "henderson-sans-basic";
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+
+
+
+  h2 {font-family: "henderson-sans-basic";
+    font-size: 70px;
+
+
+  }
+
+
+  h3{
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 70px;
+    text-align: center;
+  }
+
+.head{
+  height: 300px;
+  position: relative;
+  top:50px;
+}
+
+ .head h3{
+   font-weight: 200;
+   font-size: 2vw;
+   position: relative;
+   top: -20px;
+   text-align: center;
+
+ }
+.motionhead h3{
+  height: 300px;
+  position: relative;
+  top:150px;
+
+}
+ .motionheadtwo h3{
+
+   -webkit-transform: scaleY(-1);
+   transform: scaleY(-1);
+   position: relative;
+   bottom: 100px;
+   opacity: .2;
+
+
+}
+
+
+
+.multihead h3{
+  height: 300px;
+  position: relative;
+  top:150px;
+  z-index: -1;
+
+}
+ .multiheadtwo h3{
+
+   -webkit-transform: scaleY(-1);
+   transform: scaleY(-1);
+   position: relative;
+   bottom: 100px;
+   opacity: .2;
+
+
+
+}
+
+
+.designhead h3{
+  text-align: center;
+  font-size: 5vw;
+
+}
+
+.designheadtwo h3{
+  font-size: 5vw;
+  -webkit-transform: scaleY(-1);
+  transform: scaleY(-1);
+  position: relative;
+  bottom: 40px;
+  opacity: .2
+
+
+}
+
+
+
+
+
+
+  #motiongraphics { text-align: center;
+
+}
+
+
+
+#motiongraphics p:hover{
+  font-weight: 400;
+  bottom:70px;
+  position: relative;
+  font-weight: bold;
+  color:#6a97e8;
+  opacity:1;
+}
+#motiongraphics img{
+
+            position: relative;
+            bottom: 30px;
+            max-width: 100%;
+            height: auto;
+}
+
+#motiongraphics h2{
+            position: relative;
+            bottom: 90px;
+            font-weight: bold;
+}
+
+  #motiongraphics p {font-size: 90px;
+              font-weight: bold;
+              color: black;
+              position: relative;
+              bottom: 70px;
+              opacity: 0;
+              font-family: "henderson-sans-basic";}
+
+
+    #motiongraphics {transform:translateY(120px);}
+    #motiongraphics p {transform:translateY(120px);}
+    #motiongraphics p {transform:translateX(220px);}
+    #motiongraphics p{transform:translate(-15px, 10px);}
+
+
+
+    #motiongraphics {transition:all 2s;}
+    #motiongraphics p {transition:all 2s;}
+    #motiongraphics p{transition:transform 2s;}
+    #motiongraphics p{transition:all 2s;}
+
+  /* on hover do stuff*/
+  #motiongraphics{transition:all 2s;}
+  #motiongraphics p {transform:translate(0,0);}
+  #motiongraphics p{width:100%;
+                 transform:translate(300px,305px);
+                 height:100px;}
+  #motiongraphics p{opacity:0; transform:translate(0,-315px); color:white;}
+
+
+.displacereveal{
+  max-width: 100%
+
+}
+
+
+.displacereveal p:hover{
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+  font-weight: bold;
+  opacity:0;
+  font-family: "henderson-sans-basic";
+
+}
+
+.displacereveal p{
+  opacity:0;
+  font-size: 50px;
+  font-weight: 400;
+  font-weight: bold;
+  margin-top: 100px;
+  bottom: 500px;
+  text-align: center;
+  font-family: "henderson-sans-basic"
+
+}
+
+
+.metareveal p:hover{
+
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+  font-weight: bold;
+  opacity:1;
+  font-family: "henderson-sans-basic";
+
+}
+
+.metareveal p{
+
+  opacity:0;
+  font-size: 50px;
+  font-weight: 400;
+  font-weight: bold;
+  margin-top: 100px;
+  bottom: 500px;
+  text-align: center;
+  font-family: "henderson-sans-basic"
+
+}
+
+
+
+
+.grid-x {
+  top:400px;
+    font-size: 25px;
+    margin: 0 auto;
+    align-items: baseline;
+    font-family: "filson-soft";
+    font-weight: 500;
+}
+.grid-x a{
+  max-width: 100%;
+  text-align: center;
+  height: 100px;
+  background-color: ;
+  color: white;
+}
+
+}/*end of large screen*/
+
+
+
+@media screen and (max-width:641px) {
+  /* CSS code for small screens  */
+
+
+  #contact h4{
+    position: relative;
+    top:-40px;
+
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "henderson-sans-basic";
+
+  }
+
+  #contact p{
+    font-size: 13px;
+    text-align: center;
+
+  }
+
+  #contact {
+    position: relative;
+
+    background-image: url("../images/.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top:200px;
+    height: 200px;
+
+  }
+
+  #contact a{
+    position: relative;
+    text-align: center;
+    height: 400px;
+    top:-40px;
+
+  }
+  .headermotion{
+    position: relative;
+    top:-80px;
+
+
+  }
+
+  .headermotiontwo{
+    position: relative;
+    top:-80px;
+
+  }
+  .headermotion h3{
+    text-align: center;
+    position: relative;
+
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+    top:140px;
+  }
+
+  .headermotiontwo h3{
+    text-align: center;
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+
+    top:120px;
+
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    position: relative;
+    opacity: .2
+  }
+
+  .headerabout h3{
+    top:-5px;
+    position: relative;
+
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .headerabouttwo h3{
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+
+    top:-10px;
+
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    position: relative;
+    opacity: .2
+  }
+
+  .headerreel h3{
+    position: relative;
+
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+    top:165px;
+  }
+
+  .headerreeltwo h3{
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+
+    top:150px;
+
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    position: relative;
+    opacity: .2
+  }
+
+
+  .reel{
+    top:130px;
+    height: 150px;
+    position: relative;
+
+  }
+
+  .stillprint h3{
+    top:60px;
+    position: relative;
+
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .stillprinttwo h3{
+    font-family: "filson-soft";
+    font-weight: 200;
+    font-size: 20px;
+    text-align: center;
+
+    top:50px;
+
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    position: relative;
+    opacity: .2
+  }
+  #reel{
+    top:130px;
+    height: 150px;
+    position: relative;
+    background-image: url("../images/vhs.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+.reel{
+  max-width: 100%;
+}
+  .reel{
+
+    z-index: 1;
+    top:130px;
+    height: 140px;
+    position: relative;
+    background-image: url("../images/reel.png");
+    background-attachment: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+  .button{
+    height: 10px;
+      position: relative;
+      top:-33px;
+      font-weight: bold;
+      font-family: "henderson-sans-basic";
+      background-color: transparent;
+      color: black;
+      font-size: 12px;
+    }
+
+    .button:hover{
+      font-weight: bold;
+      font-family: "henderson-sans-basic";
+      background-color: white;
+      opacity: .5;
+      color: grey;
+
+
+    }
+
+
+  .button a:visited{
+    background-color: transparent;
+
+  }
+
+  .buttonreel{
+    height: 10px;
+      position: relative;
+      top:-33px;
+      font-weight: bold;
+      font-family: "henderson-sans-basic";
+      background-color: transparent;
+      color: black;
+      font-size: 12px;
+    }
+
+    .buttonreel:hover{
+      font-weight: bold;
+      font-family: "henderson-sans-basic";
+      background-color: white;
+      opacity: .5;
+      color: grey;
+
+
+    }
+
+
+  .buttonreel a:visited{
+    background-color: transparent;
+
+  }
+  .bg1motion{
+    z-index: -1;
+      opacity: .6;
+    background-image: url("../images/displacement.png");
+    image-orientation: centered;
+    top:200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+
+.bg1motion h4{
+  font-weight: bold;
+  text-align: center;
+
+  position: relative;
+  font-family: "henderson-sans-basic";
+
+}
+  .bg1motion p{
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    position: relative;
+    font-family: "henderson-sans-basic";
+
+  }
+
+  .grid-container {
+    display: grid;
+    grid-gap: 15px 25px;
+    top: 65px;
+
+    grid-template-columns: auto auto auto;
+
+    padding: 10px;
+    position: relative;
+    background-image: url("../");
+    opacity: 1;
+
+
+
+    max-width: 100%;
+    /* Set a specific height */
+
+  border-radius: 15px;
+
+
+}
+
+.grid-item1 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/boxsml.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;
+/* Set a specific height */
+
+border-radius: 10px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item2 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/meta2.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;
+/* Set a specific height */
+
+border-radius: 10px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item3 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/smlc.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;
+/* Set a specific height */
+
+border-radius: 10px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item4 {
+display: grid;
+position: relative;
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/orbit2.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;
+/* Set a specific height */
+
+border-radius: 10px;
+
+/* Create the parallax scrolling effect */
+background-attachment:relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item5 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/cloth.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;/* Set a specific height */
+
+border-radius: 10px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item6 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/soft.png");
+opacity: 1;
+
+
+height: 100px;
+max-width: 100%;
+/* Set a specific height */
+
+border-radius: 10px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item7 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/fall.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item8 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/displacement2.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item9 {
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 15px 15px;
+position: relative;
+background-image: url("../images/foldsml.png");
+opacity: 1;
+
+height: 100px;
+max-width: 100%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+.grid-item11 {
+  left:60px;
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/design3.png");
+opacity: 1;
+
+height: 100px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item12 {
+  left:100px;
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/kutSMALL.png");
+opacity: 1;
+
+height: 100px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item13 {
+  top:140px;
+  left:-40px;
+
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/box3.png");
+opacity: 1;
+
+height: 100px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.grid-item14 {
+left:70px;
+top:10px;
+display: grid;
+
+grid-template-columns: auto auto auto;
+
+padding: 10px;
+position: relative;
+background-image: url("../images/nalasmall.png");
+opacity: 1;
+
+height: 100px;
+max-width: 90%;
+/* Set a specific height */
+
+border-radius: 15px;
+
+/* Create the parallax scrolling effect */
+background-attachment: relative;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.gridtwo{
+  position: relative;
+  top:90px;
+}
+
+  .mainnav{
+    font-size: 15px;
+  }
+  .headerhome h3{
+    font-family: "filson-soft";
+    font-weight: 90;
+    font-size: 20px;
+    text-align: center;
+  }
+
+
+  .top{
+    text-align: center;
+    position: relative;
+    top:150px;
+    font-size: 12px;
+    color: black;
+  font-weight: 600;
+
+  width: 100%;
+
+
+  font-family: "henderson-sans-basic";
+
+  }
+    .parallaxhome {
+        /* The image used */
+        background-image: url("../images/di.png");
+        image-orientation: centered;
+
+        /* Set a specific height */
+        min-height: 50px;
+        min-width: 200px;
+        /* Create the parallax scrolling effect */
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+  }
+
+  .parallaxmotion {
+      /* The image used */
+      background-image: url("../images/.png");
+      image-orientation: centered;
+
+      /* Set a specific height */
+      min-height: 200px;
+      min-width: 200px;
+
+
+      /* Create the parallax scrolling effect */
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+
+
+  }
+
+  .parallaxmulti {
+
+      /* The image used */
+      background-image: url("../images/me.png");
+      image-orientation: centered;
+
+      /* Set a specific height */
+      min-height: 200px;
+      min-width: 200px;
+
+
+      /* Create the parallax scrolling effect */
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+  }
+
+
+  .parallaxdesign {
+      /* The image used */
+      background-image: url("../images/logoshadows1920x1080.png");
+      image-orientation: centered;
+
+      /* Set a specific height */
+      min-height: 200px;
+      min-width: 200px;
+
+
+
+
+      /* Create the parallax scrolling effect */
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+  }
+
+
+  /*.bigbox{
+  height:1950px;
+  background-color: transparent;
+
+  } */
+
+  #exampleModalmulti1 h1{
+
+
+  }
+
+  #exampleModalmulti1 p{
+
+
+  }
+  .parallax{
+    min-height: 700px;
+  }
+  .bg1motion {
+
+    position: relative;
+    height: 400px;
+    max-width: 100%;
+    background-image: url("../images/.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+  #exampleModal1 {
+
+  max-height: auto;
+  }
+
+  .bg2motion{
+    position: relative;
+    top:-300px;
+
+    height: 100px;
+    max-width: 40%;
+    background-color: white;
+    background-image: url("../images/vh.png");
+    opacity: 1;
+
+    /* Set a specific height */
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bg3motion{
+    position: relative;
+
+top:500px;
+  height: 100px;
+    max-width: 40%;
+    background-color: white;
+   background-image: url("../images/vhs.png");
+    opacity: 1;
+
+    /* Set a specific height */
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  /*.bg1{
+
+     height: 8px;
+     width:100%;
+
+
+
+     background-color: black;
+
+
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+   }
+
+   .bg2{
+
+     height: 8px;
+     background-color: black;
+     width:100%;
+
+     opacity: .5;
+
+
+
+
+
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+   }
+
+   .bg3{
+
+     height: 8px;
+     background-color: black;
+
+
+     opacity: 1;
+
+
+
+
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+   }
+
+   .bg4{
+
+     height: 400px;
+     background-color: black;
+
+     opacity: 1;
+
+
+
+
+
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+   }
+*/
+    .motiongraphics {
+    /*margin-top: 150px;*/
+    height:700px;
+    background-color:white;
+    font-size:56px;
+    text-align: center;
+    background-repeat: no-repeat;
+
+  }
+
+    #design {
+      /*margin-top: 150px;*/
+      height:330px;
+
+      font-size:56px;
+      text-align: center;
+
+    }
+
+    .bottom {
+      /* The image used */
+      background-image: url("../images/displacement.png");
+
+      /* Set a specific height */
+      min-height: 200px;
+      min-width: 200px;
+
+      /* Create the parallax scrolling effect */
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+  }
+
+  .bg4{
+    color: white;
+    text-align: center;
+  }
+
+
+    h1 {
+      font-family: "henderson-sans-basic";
+      font-size: 30px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    h2 {font-family: "henderson-sans-basic";
+      font-size: 70px;
+  }
+
+
+    h3{
+      font-family: "filson-soft";
+      text-align: center;
+    }
+
+  #motiongraphics { text-align: center;
+
+    min-height: 200px;
+
+  }
+
+
+
+  #motiongraphics p:hover{
+    font-size: 2vh;
+    top:-30px;
+    position: relative;
+    font-weight: bold;
+    color:#6a97e8;
+    opacity:1;
+  }
+
+  #motiongraphics img{
+    top: -70px;
+position: relative;
+
+            }
+
+
+  #motiongraphics h2{
+              font-size: 20px;
+              position: relative;
+              bottom: 90px;
+              font-weight: bold;
+  }
+
+    #motiongraphics p {font-size: 90px;
+                font-weight: bold;
+                color: black;
+                position: relative;
+                bottom: 70px;
+                opacity: 0;
+                font-family: "henderson-sans-basic";}
+
+
+      #motiongraphics {transform:translateY(120px);}
+      #motiongraphics p {transform:translateY(120px);}
+      #motiongraphics p {transform:translateX(220px);}
+      #motiongraphics p{transform:translate(-15px, 10px);}
+
+
+
+      #motiongraphics {transition:all 2s;}
+      #motiongraphics p {transition:all 2s;}
+      #motiongraphics p{transition:transform 2s;}
+      #motiongraphics p{transition:all 2s;}
+
+    /* on hover do stuff*/
+    #motiongraphics{transition:all 2s;}
+    #motiongraphics p {transform:translate(0,0);}
+    #motiongraphics p{width:100%;
+                   transform:translate(300px,305px);
+                   height:60px;}
+    #motiongraphics p{opacity:0; transform:translate(0,-315px); color:white;}
+
+
+
+
+
+  .displacereveal p:hover{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    opacity:0;
+    font-family: "henderson-sans-basic";
+
+  }
+
+  .displacereveal p{
+    opacity:0;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    bottom: 500px;
+    text-align: center;
+    font-family: "henderson-sans-basic"
+
+  }
+
+
+  .metareveal p:hover{
+
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    opacity:1;
+    font-family: "henderson-sans-basic";
+
+  }
+
+  .metareveal p{
+
+    opacity:0;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    bottom: 500px;
+    text-align: center;
+    font-family: "henderson-sans-basic"
+
+  }
+
+
+
+  #video p:hover{
+    font-size: 2vh;
+    top:-30px;
+    position: relative;
+    font-weight: bold;
+    color:#6a97e8;
+    opacity:1;
+  }
+
+  #video img{
+    height: auto;
+    position: relative;
+    bottom: 80px;
+
+  }
+
+  #video h2{
+    font-size: 20px;
+    position: relative;
+    bottom: 90px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  #video  p {font-size: 2vh;
+              font-weight: bold;
+              color: black;
+              position: relative;
+              top: -75px;
+              opacity: 0;
+              font-family: "henderson-sans-basic";}
+
+
+    #video  {transform:translateY(120px);}
+    #video  p {transform:translateY(120px);}
+    #video  p {transform:translateX(220px);}
+    #video  p{transform:translate(-15px, 10px);}
+
+
+
+    #video  {transition:all 2s;}
+    #video  p {transition:all 2s;}
+    #video  p{transition:transform 2s;}
+    #video  p{transition:all 2s;}
+
+  /* on hover do stuff*/
+  #video {transition:all 2s;}
+  #video  p {transform:translate(0,0);}
+  #video  p{width:100%;
+                 transform:translate(300px,305px);
+                 height:60px;}
+  #video  p{opacity:0; transform:translate(0,-315px); color:white;}
+
+#video{
+  height: auto;
+}
+
+
+
+  #design p:hover{
+    font-size: 2vh;
+    top:-100px;
+    position: relative;
+    font-weight: bold;
+    color:#6a97e8;
+    opacity:1;
+  }
+    #design img{
+
+      height: auto;
+      position: relative;
+      top: -100px;
+    }
+
+    #design h2{
+      font-size: 20px;
+      position: relative;
+      bottom: 90px;
+      font-weight: bold;
+
+    }
+
+    #design  p {font-size: 2vh;
+                font-weight: bold;
+                color: black;
+                position: relative;
+                top:-60px;
+                opacity: 0;
+                font-family: "henderson-sans-basic";}
+
+
+      #design {transform:translateY(120px);}
+      #design  p {transform:translateY(120px);}
+      #design  p {transform:translateX(220px);}
+      #design  p{transform:translate(-15px, 10px);}
+
+
+
+      #design  {transition:all 2s;}
+      #design  p {transition:all 2s;}
+      #design  p{transition:transform 2s;}
+      #design  p{transition:all 2s;}
+
+    /* on hover do stuff*/
+    #design {transition:all 2s;}
+    #design  p {transform:translate(0,0);}
+    #design  p{width:100%;
+                   transform:translate(300px,305px);
+                   height:60px;}
+    #design  p{opacity:0; transform:translate(0,-315px); color:white;}
+
+
+  .bg4{
+    top:500px;
+    width: 700px;
+  }
+
+.grid-x{
+  height:100px;
+}
+
+  .grid-x a{
+      font-size: 15px;
+      margin: 0 auto;
+      align-items: baseline;
+      font-family: "filson-soft";
+      font-weight: 200;
+  }
+
+  .grid-x {
+      font-size: 25px;
+      margin: 0 auto;
+      align-items: baseline;
+      font-family: "filson-soft";
+      font-weight: 500;
+  }
+  .grid-x a{
+    max-width: 100%;
+    text-align: center;
+    height: auto;
+    background-color: ;
+    color: white;
+  }
+
+
+
+
+/* parallax */
+    .bg1multi{
+
+      min-height: 200px;
+      min-width: 200px;
+      background-image: url("../images/makey.png");
+      opacity: 1;
+
+
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+
+    }
+    #exampleModalmulti2 h1{
+
+
+    }
+
+    #exampleModalmulti2 button{
+
+
+
+    }
+
+
+    .bg2multi{
+
+      min-height: 200px;
+      min-width: 200px;
+      background-color: white;
+     background-image: url("../images/kinect.png");
+      opacity: 1;
+
+
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
+
+    #exampleModalmulti3 h1{
+
+    }
+
+    #exampleModalmulti3 p{
+
+
+    }
+
+    .bg3multi{
+
+      min-height: 200px;
+      min-width: 200px;
+      background-color: white;
+     background-image: url("../images/walkthis.png");
+      opacity: 1;
+
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
+
+    #exampleModalmulti4 h1{
+
+
+    }
+
+    #exampleModalmulti4 p{
+
+    }
+    .bg4multi{
+
+      min-height: 200px;
+      min-width: 200px;
+      background-color: white;
+     background-image: url("../images/snrprj.png");
+      opacity: 1;
+
+      background-attachment: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
+
+    #exampleModalmulti5 h1{
+
+
+    }
+
+    #exampleModalmulti5 p{
+
+
+    }
+
+
+    #exampleModalmulti6 h1{
+
+
+    }
+
+    #exampleModalmulti6 p{
+
+
+    }
+
+
+    #exampleModalmulti7 h1{
+
+
+    }
+
+    #exampleModalmulti7 p{
+
+
+    }
+
+
+
+      #exampleModal1 p{
+
+
+      }
+
+      .bg2motion{
+
+        min-height: 200px;
+        min-width: 200px;
+
+
+        background-color: white;
+       background-image: url("../images/unsure.png");
+        opacity: 1;
+
+
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      #exampleModal2 h1{
+
+
+      }
+
+      #exampleModal2 p{
+
+
+      }
+
+      .bg3motion{
+
+        min-height: 200px;
+        min-width: 200px;
+
+
+        background-color: white;
+       background-image: url("../images/softblue.png");
+        opacity: 1;
+
+        background-attachment:relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      #exampleModal3 h1{
+
+
+      }
+
+      #exampleModal3 p{
+
+
+      }
+
+      .bg4motion{
+
+        min-height: 200px;
+        min-width: 200px;
+
+
+        background-color: white;
+        background-image: url("../images/rock.png");
+        opacity: 1;
+
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      #exampleModal4 h1{
+
+
+      }
+
+      #exampleModal4 p{
+
+
+      }
+
+
+      .bg5motion{
+
+        min-height: 200px;
+        min-width: 200px;
+
+
+        background-color: white;
+       background-image: url("../images/.png");
+        opacity: 1;
+
+
+
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      #exampleModal5 h1{
+
+
+      }
+
+      #exampleModal5 p{
+
+
+      }
+      #exampleModal6 p{
+
+
+      }
+
+      #exampleModal7 p{
+
+
+      }
+
+      #exampleModal8 p{
+
+
+      }
+      #exampleModal9 p{
+
+
+      }
+
+
+      .bg1design {
+          background-image: url("../images/logoshadows1920x1080.png");
+          image-orientation: centered;
+
+
+          min-height: 200px;
+          min-width: 200px;
+
+
+          background-attachment: relative;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: 100%;
+      }
+
+      #exampleModaldesign1 h1{
+
+
+      }
+
+      #exampleModaldesign1 p{
+
+
+      }
+
+      .bg2design {
+
+          background-image: url("../images/foldfive.png");
+          image-orientation: centered;
+
+          min-height: 200px;
+          min-width: 200px;
+
+          background-attachment: relative;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: 100%;
+      }
+
+      #exampleModaldesign2 h1{
+
+
+      }
+
+      #exampleModaldesign2 p{
+
+
+
+
+      }
+
+
+      .bg3design{
+
+        min-height: 200px;
+        min-width: 200px;
+        background-color: white;
+       background-image: url("../images/box3.png");
+        opacity: 1;
+
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      #exampleModaldesign3 h1{
+
+
+      }
+
+      #exampleModaldesign3 p{
+
+
+      }
+
+      .bg4design{
+
+        height: 400px;
+        background-color: white;
+       background-image: url("../images/many.png");
+        opacity: 1;
+
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      #exampleModaldesign4 h1{
+
+
+      }
+
+      #exampleModaldesign4 p{
+
+
+      }
+
+      .bg5design{
+
+        height: 400px;
+        background-color: white;
+       background-image: url("../images/.png");
+        opacity: 1;
+
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+
+      #exampleModaldesign5 h1{
+
+
+      }
+
+      #exampleModaldesign5 p{
+
+
+      }
+
+      .bg6design{
+        min-height: 200px;
+        height: 200px;
+        background-color: white;
+       background-image: url("../images/.png");        opacity: 1;
+        background-attachment: relative;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+      }
+    }
+/* End of Small Screen*/
+.logo{
+  max-width: 30%;
+  z-index: 1;
+}
+
+.headerhome {
+
+  font-family: "henderson-sans-basic";
+  font-weight: 200;
+  font-size: 70px;
+  text-align: center;
+
+}
+
+.headerpage{
+  font-family: "filson-soft";
+  font-weight: 200;
+  font-size: 60px;
+  text-align: center;
+}
+
+.headerpagetwo {
+
+  font-family: "filson-soft";
+  font-weight: 200;
+  font-size: 60px;
+  text-align: center;
+
+  top:-20px;
+  font-size: 20px;
+  -webkit-transform: scaleY(-1);
+  transform: scaleY(-1);
+  position: relative;
+  opacity: .2
+}
+
+
+
+
+
+
+
+
+.mainnav a{
+    position:relative;
+    font-family: "henderson-sans-basic";
+    color: black;
+
+}
+
+ul {
+list-style: none;
+}
+
+
+
+
+
+
+#top a {
+    color: black;
+  font-weight: 600;
+
+  text-align: center;
+  font-family: "henderson-sans-basic";
+
+}
+
+ a {
+    color: black;
+  font-weight: 600;
+
+  text-align: center;
+  font-family: "henderson-sans-basic";
+
+}
+
+
+ a:visited{
+
+  font-family: "henderson-sans-basic";
+  font-weight: bold;
+}
+
+
+.about{
+
+  padding: 60px 60px 60px 60px;
+  height:600px;
+}
+.about h1{
+  text-align: center;
+  font-family: "henderson-sans-basic";
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.about p{
+  text-align: center;
+  font-family: "filson-soft";
+  font-size: 25px;
+  font-weight: ;
+}
+
+.wrapper{
+  top:100px
+  padding: 100px 15px 15px 100px;
+  max-width: 1510px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
