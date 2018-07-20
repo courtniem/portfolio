@@ -1,0 +1,357 @@
+/*
+* {
+  border: 1px solid red;
+}
+*/
+
+/* NAVIGATION: STARTS */
+.title-bar {
+  height: 70px;
+  padding-top: 23px;
+  padding-left: 20px;
+  background-color: rgba(255,255,255,1); }
+  .index_button img {
+    width: 60px;
+    right: 0px;
+    position: absolute;
+    z-index: 999; }
+  #sub-menu .top-bar-right ul {
+  text-align: center; }
+.top-bar {
+  background-color: #fff; }
+  .top-bar ul {
+    background-color: #fff; }
+  .top-bar ul li a {
+    color: #000;
+    font-weight: bold;
+    text-align:left; }
+.menu-icon {
+  height: 25px;
+  width: 30px;
+  outline-style:none; }
+  .menu-icon::after {
+    height: 5px;
+    background: #000;
+    box-shadow: 0 10px 0 #000, 0 20px 0 #000; }
+  .menu-icon:hover::after {
+    background: #000;
+    box-shadow: 0 10px 0 #000, 0 20px 0 #000; }
+  /* NAVIGATION: ENDS*/
+
+
+  /* FOOTER SECTION: STARTS */
+  #footer {
+    height: 100%;
+    text-align: center; }
+    #footer a img {
+      width: 50px;
+      margin: 10px; }
+    .footer_bottom {
+      width: 100; }
+    .footer_bottom p {
+      font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-size: 8pt;
+      color: #fff;
+      text-align: center;
+      letter-spacing: 1px;
+      margin: 0px auto;
+      padding: 10px 0px;
+      background-color: #000; }
+  /* FOOTER SECTION: ENDS */
+
+
+  /* WORK PAGE: STARTS */
+  .header_home h1{
+    font-family: "mr-eaves-modern",sans-serif;
+    font-size: 50pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px; }
+  .header_home h3{
+    font-family: "mr-eaves-xl-modern",sans-serif;
+    font-size: 13pt;
+    text-align: center;
+    margin: 0px;
+    padding: 0px 50px;
+
+    } /*THIS GOES FOR HOME/WORK PAGE*/
+  .header_aboutncontact h3 /*THIS GOES FOR ABOUT PAGE*/ {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    margin: 0px;
+    padding: 0px 50px; }
+
+    /*** WORK THUMBNAIL CONTAINER: STARTS ***/
+      .workthumbs_container {
+        margin: 0px;
+        padding: 20px 20px 50px 20px; }
+        .workthumbs_box {
+          height: 150px;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          outline: 8px solid #fff;
+          margin: 0px;
+          padding: 0px; }
+          .workthumbs_text {
+            height: 100%;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 1);
+            text-align: center;
+            visibility: hidden; }
+            .workthumbs_text h1 {
+
+              font-weight: 500;
+              font-size: 16pt;
+              color: #000;
+              text-align: center;
+              text-transform: uppercase;
+              letter-spacing: 2px;
+              padding-top: 175px;
+              margin: 0px; }
+      /*** WORK THUMBNAIL CONTAINER: ENDS ***/
+  /* WORK PAGE: ENDS */
+
+
+  /* ABOUT & CONTACT PAGE: STARTS*/
+  .header_aboutncontact h1 {
+
+     font-family: "objektiv-mk1",sans-serif;
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    padding: 20px 0px; }
+  #resume, #contact_button {
+    text-align: center;
+    padding: 40px 0px 0px 0px; }
+    #resume a img,
+    #contact_button img {
+      width: 75px; }
+
+  .aboutparagraph_container {
+    margin: 0px;
+    padding: 40px 20px;
+    text-align: center; }
+
+  .services_container {
+    text-align: center; }
+    .services_container h2 {
+      font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-size: 20pt;
+      font-weight: bold;
+      text-align: center;
+      margin: 0px;
+      padding: 20px 0px; }
+    .services_container img {
+      padding: 20px 50px; }
+  /* ABOUT & CONTACT PAGE: ENDS*/
+
+
+  /* PROJECT STYLING: STARTS*/
+  .header_project h1 {
+  font-family: "objektiv-mk1",sans-serif;
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    padding: 20px 0px; }
+  .header_project h3 {
+    font-family: "mono45-headline",monospace;
+    font-size: 12pt;
+    text-align: center;
+    margin: 0px;
+    padding: 0px 50px; }
+  .projectparagraph_container {
+    margin: 0px;
+    padding: 40px 20px;
+    text-align: center; }
+  .project_content {
+    text-align: center;
+    padding: 0px 20px 0px 20px; }
+    .project_content img {
+      padding: 5px 0px; }
+
+  .worklinks_container {
+    margin: 0px;
+    padding: 120px 0px 50px 0px; }
+    .worklinks {
+    text-align: center;
+    list-style: none;
+    margin: 0px;
+    padding: 0px; }
+      .worklinks ul {
+        margin: 0px;
+        padding: 0px }
+        .worklinks li {
+            font-family: "objektiv-mk1",sans-serif;
+          display: block;
+          font-size: 18px;
+          padding: 5px 0px; }
+          .worklinks li a {
+            font-family: "objektiv-mk1",sans-serif;
+            font-weight: 500;
+            font-size: 12pt;
+            color: #ccc;
+            letter-spacing: 1px;
+            text-decoration: none; }
+
+
+  /* PROJECT STYLING: ENDS*/
+
+
+  /******************************************* 320px TABLET *******************************************/
+  @media screen and (min-width: 320px) {
+
+    /* WORK PAGE: STARTS */
+    .header_home h1 {
+      font-size: 40pt; }
+    /* WORK PAGE: ENDS */
+
+    /* ABOUT & CONTACT PAGE: STARTS */
+    .header_aboutncontact h1 {
+      font-size: 20pt;}
+    .header_aboutncontact h3 {
+      padding: 0px 30px; }
+    /* ABOUT & CONTACT : ENDS */
+  }
+
+  .worklinks_container {
+      margin: 0px;
+      padding: 120px 0px 50px 0px; }
+      .worklinks {
+      text-align: center;
+      list-style: none;
+      margin: 0px;
+      padding: 0px; }
+        .worklinks ul {
+          margin: 0px;
+          padding: 0px }
+          .worklinks li {
+            display: block;
+            font-size: 18px;
+            padding: 5px 0px; }
+            .worklinks li a {
+              font-family: "objektiv-mk1",sans-serif;
+              font-weight: 500;
+              font-size: 12pt;
+              color: #ccc;
+              letter-spacing: 1px;
+              text-decoration: none; }
+
+
+    /* PROJECT STYLING: ENDS*/
+
+  /******************************************* 320px *******************************************/
+
+
+  /******************************************* 768px TABLET *******************************************/
+  @media screen and (min-width: 768px) {
+
+    /* WORK PAGE: STARTS */
+    .workthumbs_box {
+      height: 250px; }
+    /* WORK PAGE: ENDS */
+
+
+    /* ABOUT & CONTACT PAGE: STARTS */
+    .header_aboutncontact {
+      padding: 0px 100px; }
+    /* ABOUT & CONTACT PAGE: STARTS */
+
+
+    /* ABOUT PAGE: STARTS */
+    .aboutparagraph_container {
+      padding: 40px 40px; }
+    /* ABOUT PAGE: ENDS */
+  }
+  /******************************************* 768px *******************************************/
+
+
+  /******************************************* 1025px DESKTOP *******************************************/
+  @media screen and (min-width: 1025px) {
+
+    /*** NAGIVATION: STARTS ***/
+    .top-bar {
+      width: 200px;
+      z-index: -1; }
+    /*** NAVIGATION: ENDS ***/
+
+
+/***HEADER STARTS***/
+
+.header_home h1{
+  font-family: "mr-eaves-modern",sans-serif;
+  font-size: 70pt;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px;
+}
+
+  .header_home h3{
+
+    font-family: "mr-eaves-xl-modern",sans-serif;
+    font-size: 18pt;
+    text-align: center;
+    margin: 0px;
+    padding: 0px 50px;
+  }
+
+
+
+     /*THIS GOES FOR HOME/WORK PAGE*/
+    /* WORK PAGE: STARTS */
+    .workthumbs_box {
+      height: 350px; }
+      .workthumbs_text {
+        background-color: inherit;
+        visibility: hidden; }
+      .workthumbs_box:hover .workthumbs_text {
+        visibility: visible;
+        background-color: rgba(255, 255, 255, 1);
+        -webkit-transition-duration: 0.2s;
+        -moz-transition-duration: 0.2s;
+        -o-transition-duration: 0.2s;
+        transition-duration: 0.2s; }
+        .workthumbs_text:hover h1 {
+          font-family: "objektiv-mk1",sans-serif;
+          font-size: 18pt;
+          visibility: visible;
+          -webkit-transition-duration: 0.2s;
+          -moz-transition-duration: 0.2s;
+          -o-transition-duration: 0.2s;
+          transition-duration: 0.2s; }
+    /* WORK PAGE: ENDS */
+
+/*--------- PROJECT STYLING STARTS**-------*/
+
+      .worklinks_container {
+        margin: 0px;
+        padding: 120px 0px 50px 0px; }
+        .worklinks {
+        text-align: center;
+        list-style: none;
+        margin: 0px;
+        padding: 0px; }
+          .worklinks ul {
+            margin: 0px;
+            padding: 0px }
+            .worklinks li {
+              display: inline;
+              font-size: 18px;
+              padding: 5px 60px; }
+              .worklinks li a {
+                font-family: "objektiv-mk1",sans-serif;
+                font-weight: 500;
+                font-size: 12pt;
+                color: #ccc;
+                letter-spacing: 1px;
+                text-decoration: none; }
+
+
+      /* PROJECT STYLING: ENDS*/
+
+
+  }
+  /******************************************* 1025px *******************************************/
